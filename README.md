@@ -1,3 +1,4 @@
+hi
 # Conan CLion Plugin [![Build Status](https://travis-ci.org/conan-io/conan-clion-plugin.svg?branch=master)](https://travis-ci.org/conan-io/conan-clion-plugin)
 Conan CLion plugin adds Conan support to Jetbrains CLion.
 
